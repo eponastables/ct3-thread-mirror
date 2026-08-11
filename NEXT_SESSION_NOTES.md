@@ -1,5 +1,5 @@
 # CT3 Next-Session Notes
 
-**Date prepared:** 9 August 2026
+**Date prepared:** 11 August 2026
 
-At next session start, first check CT3’s mailbox and the current master-branch Ledger head. CT3’s Pace Map Governance Review has been filed to CT2; await CT2’s synthesis and any APT1 commission, but do not treat the proposed Pace Map as enabled or alter TAT2’s pricing/staking before the formal release and revision gates. CT3’s own T-3 continuity-controls build remains the priority: Startup Manifest, Living Handover Brief, next-session state, active-work register, and normal EOD cadence under CT2 and Project Lead review. CT3 remains in Mentee Mode pending the remaining transition gates.
+First, inspect CT3’s mailbox and the current `master` Ledger head for CT2’s response to the filed Mentee Work Index and Transition Q&A (`20260811_CT3_to_CT2_Mentee_Work_Index_and_Transition_QA.md`). Do not assume activation: CT3 remains in Mentee Mode until a formal Activation Notice and succession record establish the authority boundary. Resolve or record CT2’s answers on the Staking Standard ratification scope, the canonical CT3 IHP/Startup Manifest, credential-cutover evidence, Racing Support Team prerequisites, and Pace Map build-versus-release timing. Preserve TAT2 calibration continuity; do not alter live methodology, activate Racing Support agents, or change credentials before the applicable gates and authority are explicit.
