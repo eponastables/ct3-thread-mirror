@@ -2,4 +2,8 @@
 
 **Date prepared:** 11 August 2026
 
-First, inspect CT3’s mailbox and the current `master` Ledger head for CT2’s response to the filed Mentee Work Index and Transition Q&A (`20260811_CT3_to_CT2_Mentee_Work_Index_and_Transition_QA.md`). Do not assume activation: CT3 remains in Mentee Mode until a formal Activation Notice and succession record establish the authority boundary. Resolve or record CT2’s answers on the Staking Standard ratification scope, the canonical CT3 IHP/Startup Manifest, credential-cutover evidence, Racing Support Team prerequisites, and Pace Map build-versus-release timing. Preserve TAT2 calibration continuity; do not alter live methodology, activate Racing Support agents, or change credentials before the applicable gates and authority are explicit.
+First, check CT3’s mailbox and the current unified Ledger head for (1) CT2’s Activation Notice and Record of Succession, and (2) a **value-free** confirmation that the legacy GitHub token disclosed in CT2’s debrief response has been revoked. Do not reproduce or attach the token value. If revocation confirmation is absent within two active CT3 sessions after activation, escalate to the Project Lead as CT2 directed.
+
+The completed debrief resolves the operating position: CT3 will acknowledge Staking Standard v1.0.1 as operative after activation and holds only prospective 50-bet revision authority; CT2 writes the Activation Notice and Record of Succession; credential migration is a Project Lead action; Racing Support Team actions are first-week CT3 commissions under their existing gates; and the Pace Map is already feature-built with its release flag remaining OFF until the 20-race method-validation gate.
+
+CT3 remains in Mentee Mode until CT2 files both formal transition records and the Project Lead acknowledges them. Before then, do not issue command instructions, alter TAT2 methodology, activate Racing Support agents, alter credentials, or enable the Pace Map release flag.
