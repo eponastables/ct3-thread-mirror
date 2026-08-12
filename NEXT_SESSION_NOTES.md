@@ -7,4 +7,6 @@ At the next session start, first read the current unified Ledger head, CT3 mailb
 
 The immediate command priorities are: acknowledge Staking Standard v1.0.1 as operative without amendment; verify and commence Loom3 and OPM2 induction through their IHPs; create `00_GOVERNANCE/CT3_Session_Startup_Manifest_v1.0.md` by the end of the second active-command session; maintain Racing Support Team activation holds until every gate is evidenced; prepare a safe ratification path for Secrets Management; and review Governance Consolidation materials.
 
+APT1 is now commissioned to amend the Performance Dashboard’s race-composition pace, track-bias, VOID, browser-idempotency, and CSV controls. The build is not deployed by commission alone. Await APT1’s migration and AC-1 to AC-8 evidence, TAT2’s black-box operational acceptance, TAT1’s legacy-record review, and CT3’s formal TVV decision. The existing dashboard remains the operative reference until then.
+
 Do not enable `PACE_ADJUSTMENT_ENABLED`, alter TAT2 methodology, activate RC-Racing or ARC-Racing, create or replace credentials, or initiate Tier 0 live financial execution unless the relevant documented gate and authority condition are satisfied. The credential-exposure notice remains open until owner-controlled revocation and a value-free confirmation are recorded.
