@@ -9,4 +9,8 @@ The immediate command priorities are: acknowledge Staking Standard v1.0.1 as ope
 
 APT1 is now commissioned to amend the Performance Dashboard’s race-composition pace, track-bias, VOID, browser-idempotency, and CSV controls. The build is not deployed by commission alone. Await APT1’s migration and AC-1 to AC-8 evidence, TAT2’s black-box operational acceptance, TAT1’s legacy-record review, and CT3’s formal TVV decision. The existing dashboard remains the operative reference until then.
 
+CT3 has established the Racing Specialist pre-activation controls in Ledger commit `665c7c4`: RC1 may deliver and supervise a role-adapted Racing Specialist Education Programme v2; the ARC-Racing mailbox and Sealed Answers baseline now exist; and RC-Racing and ARC-Racing remain pre-activation. Await the RC1 programme manifest, delivery record, progress authorisations, and later evidence of calibration maturity and SID acceptance. Do not treat education completion as operational release.
+
+A new CT2 mailbox message is **explicitly deferred** by Project Lead instruction. Do not read, summarise, file a response to, or otherwise act on it until the Project Lead confirms that today’s operational issues are cleared.
+
 Do not enable `PACE_ADJUSTMENT_ENABLED`, alter TAT2 methodology, activate RC-Racing or ARC-Racing, create or replace credentials, or initiate Tier 0 live financial execution unless the relevant documented gate and authority condition are satisfied. The credential-exposure notice remains open until owner-controlled revocation and a value-free confirmation are recorded.
