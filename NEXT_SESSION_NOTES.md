@@ -14,3 +14,18 @@ CT3 has established the Racing Specialist pre-activation controls in Ledger comm
 A new CT2 mailbox message is **explicitly deferred** by Project Lead instruction. It remains master-only. Do not read, summarise, merge into main, file a response to, or otherwise act on it until the Project Lead confirms that today’s operational issues are cleared.
 
 Do not enable `PACE_ADJUSTMENT_ENABLED`, alter TAT2 methodology, activate RC-Racing or ARC-Racing, create or replace credentials, or initiate Tier 0 live financial execution unless the relevant documented gate and authority condition are satisfied. The credential-exposure notice remains open until owner-controlled revocation and a value-free confirmation are recorded.
+
+## 13 August 2026 — Racing Preparatory Design Commissions Filed
+
+CT3 accepted the TAT1/TAT2 **Racing Intelligence and Data Architecture Road Map v1.0** only as a planning baseline in Ledger commit `cd9df7e`, with a strict archive-sidecar-only interface. Specialist material must not reach TAT2 or contaminate the live calibration experiment.
+
+CT3 then commissioned two coordinated **design-only** reports in Ledger commit `0977b69`, which is now the identical `main` and `master` head:
+
+| Recipient | Required report | Scope and due point |
+| :--- | :--- | :--- |
+| RC-Racing | `20260813_RC-Racing_to_CT3_Racing_Intelligence_Source_Feasibility_and_Evidence_Protocol_Design.md` | Source feasibility, rights, free-versus-paid/access analysis, AI-access conditions, source-policy/evidence templates, and an RC-to-ARC handoff contract. Due within three active working sessions. |
+| ARC-Racing | `20260813_ARC-Racing_to_CT3_Racing_Evidence_Data_Memory_and_Presentation_Architecture_Design.md` | Storage, data contract, session-memory, processing, exception, safe-presentation, and bespoke-memory-system assessment. Due within three active working sessions. |
+
+Both commissions prohibit operational intelligence gathering, SID/Knowledge Bank/profile/dataset creation, scoring, pricing, selection, staking, TAT2 interaction, credentials, subscriptions, connectors, and infrastructure changes. CT3 must review the reports jointly before deciding whether any later first-release design package is warranted. **Neither report authorises activation.**
+
+Ledger branch control was checked after filing. `main` and `master` are verified identical at `0977b69903364be08e8a3e10ae7a7781d698bb6c`; the safe remote fast-forward reconciliation has been completed without discarding records.
