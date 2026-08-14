@@ -29,3 +29,11 @@ CT3 then commissioned two coordinated **design-only** reports in Ledger commit `
 Both commissions prohibit operational intelligence gathering, SID/Knowledge Bank/profile/dataset creation, scoring, pricing, selection, staking, TAT2 interaction, credentials, subscriptions, connectors, and infrastructure changes. CT3 must review the reports jointly before deciding whether any later first-release design package is warranted. **Neither report authorises activation.**
 
 Ledger branch control was checked after filing. `main` and `master` are verified identical at `0977b69903364be08e8a3e10ae7a7781d698bb6c`; the safe remote fast-forward reconciliation has been completed without discarding records.
+
+## 14 August 2026 — Ledger Reconciliation and Startup Manifest
+
+CT3 discovered that the final Dashboard TVV/release decision commit `945416a` remained retrievable but was not reachable from the prior unified `main`/`master` head `0977b69`. A fresh full-history assessment identified a shared base at `665c7c4`, 46 unique commits on the prior operative lineage, 26 unique commits on the preserved Dashboard-release lineage, and a clean no-conflict merge tree.
+
+CT3 completed a non-destructive two-parent reconciliation at `23b7620` (parents `0977b69` and `945416a`), preserving both histories and restoring the final TVV evidence/release records to the operative Ledger tree. No force-push, reset, deletion, overwrite, or conflict preference was used. The formal reconciliation decision and the overdue **CT3 Session Startup Manifest v1.0** were filed in Ledger commit `260bf1c`; `main` and `master` were verified identical at that commit.
+
+At every substantive future session start, CT3 must follow `00_GOVERNANCE/CT3_Session_Startup_Manifest_v1.0.md`: first read this file, retrieve the current Ledger and CT3 mailbox, honour deferrals, verify both branch equality and governing-record reachability, then assess authority and gates before acting. The Manifest creation priority is now complete. The underlying operating gates are unchanged: `PACE_ADJUSTMENT_ENABLED = false`; credential exposure remains open; RC-Racing and ARC-Racing remain pre-activation; and Loom3/OPM2 IHP work remains outstanding.
